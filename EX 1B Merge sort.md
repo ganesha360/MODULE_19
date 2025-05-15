@@ -13,9 +13,8 @@ To write a python program to sort the first half of the list using merge sort.
 4. Merge the Sorted First Half with the Unsorted Second Half: Merge the sorted first half and the second half back together.
 
 ## Program:
-
-Developed by: Kishore S
-Register Number: 212222240050
+## Developed by: GANESH R
+## Register Number: 212222240029
 ```python
 def merge(arr,l,m,r):
     n1 = m - l +1
